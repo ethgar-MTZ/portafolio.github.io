@@ -9,7 +9,7 @@ function NavHead() {
       <Container>
         <Navbar.Brand href="#home">
             <img
-                src="/logo03_.png"
+                src="././logo03_.png"
                 width={100}
                 height={40}
                 className='d-inline-block align-top'
