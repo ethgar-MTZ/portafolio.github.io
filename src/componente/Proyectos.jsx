@@ -7,7 +7,7 @@ function Proyectos() {
         {
             title: 'Ticketplus',
             description: 'Plataforma de gestión de tickets de servicio, registra, da seguimiento, asigna técnicos y cierra tickets de servicio. También tiene funcionalidades como generación de presupuestos, ventas de refacciones, gestión de inventario y reportes.',
-            imageUrl: './ticketplus.png',
+            imageUrl: '././ticketplus.png',
             viewLink: '#',
             editLink: '#',
             date: '2019',
@@ -37,7 +37,7 @@ function Proyectos() {
         {
             title: 'Sistema POS',
             description: 'Sistema de ventas para puntos de venta, permite gestionar productos, ventas, clientes y reportes. Incluye funcionalidades como gestión de inventario y reportes de ventas.',
-            imageUrl: './logo03_.png',
+            imageUrl: '././logo03_.png',
             viewLink: '#',
             editLink: '#',
             date: '2020',
@@ -67,7 +67,7 @@ function Proyectos() {
         {
             title: 'Sistema de servicios',
             description: 'Sistema en el que se pretende brindar servicios para negocios de diferentes giros en los que necesiten un contro¿ol en las visitas de susu clientes, agendar citas, confirmarlas, tener un calendario para monitorear los servicios del día, etc.',
-            imageUrl: './servicios.png',
+            imageUrl: '././servicios.png',
             viewLink: '#',
             editLink: '#',
             date: '2023',
@@ -93,7 +93,7 @@ function Proyectos() {
         {
             title: 'Administración de negocio',
             description: 'Este sistema tiene el propósito de gestionar el área de recursos humanos de la empresa. El sistema permite gestionar contrataciones, nómina, asistencia, vacaciones y reportes de empleados. también se tiene una sección para el registro de ventas, gastos e inventarios con sus respectivas gráficas de seguimiento',
-            imageUrl: './graficas.png',
+            imageUrl: '././graficas.png',
             viewLink: '#',
             editLink: '#',
             date: '2025',
