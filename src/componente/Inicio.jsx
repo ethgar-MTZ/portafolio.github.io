@@ -13,7 +13,7 @@ function Inicio() {
                     <p className="lead text-muted">Apasionado por la programación y el desarrollo de software, siempre en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.</p>
 
                   <p>
-                      <a href="/docs/cve-edgar-martinez.pdf" download className="btn btn-primary my-2">Descargar CV</a>
+                      <a href="./docs/cve-edgar-martinez.pdf" download className="btn btn-primary my-2">Descargar CV</a>
                   </p>
               </div>
           </div>
