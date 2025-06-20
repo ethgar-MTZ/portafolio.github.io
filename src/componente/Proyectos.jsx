@@ -1,13 +1,14 @@
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Card from 'react-bootstrap/Card';
+import ticketplus from '../../public/ticketplus.png'; // Adjust the path as necessary
 import CardProject from './CardProject.jsx'; // Assuming you have a CardProject component
 function Proyectos() {
     const projects = [
         {
             title: 'Ticketplus',
             description: 'Plataforma de gestión de tickets de servicio, registra, da seguimiento, asigna técnicos y cierra tickets de servicio. También tiene funcionalidades como generación de presupuestos, ventas de refacciones, gestión de inventario y reportes.',
-            imageUrl: '././ticketplus.png',
+            imageUrl: { ticketplus },
             viewLink: '#',
             editLink: '#',
             date: '2019',
